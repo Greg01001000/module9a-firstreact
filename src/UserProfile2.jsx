@@ -1,3 +1,5 @@
+// https://github.com/Greg01001000/module9a-firstreact
+
 function UserProfile2() {
   const name = "King Solomon";
   const bio = "Ruler of Israel whose hobby is collecting proverbs and can never say no to a woman.";
